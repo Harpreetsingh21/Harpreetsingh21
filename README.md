@@ -3,17 +3,17 @@
 <h2>👨‍💻 Ethical website hacking project:</h2>
 
 - <b>website vulnerabilities</b>
-  - [vulnerabilities found](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [vulnerabilities found](https://github.com/Harpreetsingh21/Ethical-hacking.git)
 
 <h2>Cybersecurity portfolio</h2>
 
   - <b>Conducted Security Audit for Botium Toys Ltd </b>
-    - [Security Audit ](https://github.com/joshmadakor1/Algorithms-Practice)
+    - [Security Audit ](https://github.com/Harpreetsingh21/cybersecurity-portfolio.git)
  
 <h2>Front End project</h2>
 
-- <b>Airbnb Clone</b>
-  - [Clone](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Airbnb website</b>
+  - [Front - end](https://github.com/Harpreetsingh21/Airbnb-frontend-.git)
 
 
 <h2>📄 Certifications</h2>
@@ -29,12 +29,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/Harpreet9727
+[instagram]: https://www.instagram.com/harpreet_singh_97/
+[linkedin]: https://www.linkedin.com/in/harpreet-singh-9b8451267/
