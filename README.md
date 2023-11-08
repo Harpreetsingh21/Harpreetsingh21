@@ -6,7 +6,7 @@
 - <b>website vulnerabilities</b>
   - [vulnerabilities found](https://github.com/Harpreetsingh21/Ethical-hacking.git)
 
-<h2>Cybersecurity portfolio</a></h2>
+<a href="https://github.com/Harpreetsingh21/cybersecurity-portfolio.git"><h2>Cybersecurity portfolio</h2></a>
 
   - <b>Conducted Security Audit for Botium Toys Ltd </b>
     - [Security Audit ](https://github.com/Harpreetsingh21/cybersecurity-portfolio.git)
