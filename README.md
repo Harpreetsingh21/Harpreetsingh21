@@ -1,11 +1,12 @@
-<h1>Hi, I'm Harpreet! <br/><a>Ethical hacker (website hacking)</a>, <a>Cybersecurity Professional</a>,<a>Fron-End Programmer</a> 
+<h1>Hi, I'm Harpreet! <br/><a>Ethical hacker (website hacking)</a>, <a>Cybersecurity Professional</a>,
+  <a>Front-End Programmer</a> 
 
 <h2>👨‍💻 Ethical website hacking project:</h2>
 
 - <b>website vulnerabilities</b>
   - [vulnerabilities found](https://github.com/Harpreetsingh21/Ethical-hacking.git)
 
-<h2>Cybersecurity portfolio</h2>
+<h2><a href="https://github.com/Harpreetsingh21/cybersecurity-portfolio.git"></a>Cybersecurity portfolio</a></h2>
 
   - <b>Conducted Security Audit for Botium Toys Ltd </b>
     - [Security Audit ](https://github.com/Harpreetsingh21/cybersecurity-portfolio.git)
