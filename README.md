@@ -9,7 +9,7 @@
 <h2>Cybersecurity portfolio</h2>
 
   - <b>PORTFOLIO</b>
-    - [Works i have done](https://github.com/Harpreetsingh21/cybersecurity-portfolio/tree/e5a63948843859c90907a10b52de9759be2d94fa/portfolio)
+    - [Works i have done](https://github.com/Harpreetsingh21/cybersecurity-portfolio.git)
  
 <h2>Front End project</h2>
 
