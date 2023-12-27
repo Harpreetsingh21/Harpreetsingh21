@@ -22,6 +22,8 @@
 - [Ethical hacking](https://trainings.internshala.com/view_certificate/ec1zfwf8b8v/gz8zs518vuu/)
 - [Google (Foundation of Cybersecurity)](https://www.coursera.org/account/accomplishments/certificate/SJCAC38ZUBJ2)
 - [Google (Play It Safe: Manage Security Risks)](https://www.coursera.org/account/accomplishments/certificate/A3SVFJD6EKNR)
+- [Google (Connect and Protect: Networks and Network Security)](https://www.coursera.org/account/accomplishments/certificate/NVDMQ26SSVZB)
+- [Google (Tools of the Trade: Linux and SQL)](https://www.coursera.org/account/accomplishments/certificate/5X8SYLT565TQ)
 - [LetsUpgrade(Python Programming Essentials Bootcamp)](https://drive.google.com/file/d/1I6tsYSoBhWwDsH62ctTL6gpeTDRzYK2u/view?usp=sharing)
 - [LetsUpgrade(Java Programming Essentials Bootcamp)](https://drive.google.com/file/d/1J68kDFM8POPk69snoc1vGqLXo2oCTwbk/view?usp=sharing)
 - [LetsUpgrade(HTML & CSS Essentials Bootcamp)](https://drive.google.com/file/d/1NNGGeJQyrLxg_AVpDSRx8n1zZa0u_ZY2/view?usp=sharing)
