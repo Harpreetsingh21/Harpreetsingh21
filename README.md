@@ -1,4 +1,4 @@
-<h1>Hi, I'm Harpreet! <br/><a>Ethical hacker (website hacking)</a>, <a>Cybersecurity Professional</a>,
+<h1>Hi, I'm Harpreet! <br/><a>Web Pentester</a>, <a>Cybersecurity Professional</a>,
   <a>Front-End Programmer</a> 
 
 <h2>👨‍💻 Ethical website hacking project:</h2>
