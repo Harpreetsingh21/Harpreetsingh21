@@ -20,14 +20,9 @@
 <h2>📄 Certifications</h2>
 
 - [Ethical hacking](https://trainings.internshala.com/view_certificate/ec1zfwf8b8v/gz8zs518vuu/)
-- [Google (Foundation of Cybersecurity)](https://www.coursera.org/account/accomplishments/certificate/SJCAC38ZUBJ2)
-- [Google (Play It Safe: Manage Security Risks)](https://www.coursera.org/account/accomplishments/certificate/A3SVFJD6EKNR)
-- [Google (Connect and Protect: Networks and Network Security)](https://www.coursera.org/account/accomplishments/certificate/NVDMQ26SSVZB)
-- [Google (Tools of the Trade: Linux and SQL)](https://www.coursera.org/account/accomplishments/certificate/5X8SYLT565TQ)
-- [LetsUpgrade(Python Programming Essentials Bootcamp)](https://drive.google.com/file/d/1I6tsYSoBhWwDsH62ctTL6gpeTDRzYK2u/view?usp=sharing)
-- [LetsUpgrade(Java Programming Essentials Bootcamp)](https://drive.google.com/file/d/1J68kDFM8POPk69snoc1vGqLXo2oCTwbk/view?usp=sharing)
-- [LetsUpgrade(HTML & CSS Essentials Bootcamp)](https://drive.google.com/file/d/1NNGGeJQyrLxg_AVpDSRx8n1zZa0u_ZY2/view?usp=sharing)
-- [LetsUpgrade(DSA Essentials Bootcamp)](https://drive.google.com/file/d/10zTaiVR2p7XsPYosbpy9rgC35_0ji8Ge/view?usp=sharing)
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/da44075d-cf6d-46ba-8f8f-c43ad202ba5b/linked_in_profile)
+- [Qualys (Vulnerability Management Detection and Response)](https://www.linkedin.com/in/harpreet-singh-9b8451267/details/certifications/1720347118457/single-media-viewer/?profileId=ACoAAEFiQVwB72F-5kfgQt8BilxTC4WA_ppQVA0)
+- [Tata Group – Cybersecurity Analyst Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_MmaSyfyALfaKPZ62k_1731952630507_completion_certificate.pdf)
 
 
 <h2> 🤳 Connect with me:</h2>
